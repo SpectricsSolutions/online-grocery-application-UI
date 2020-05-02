@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_16 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__artboard_16_color">#ffffff</color>
+	<color name="rectangle_38_color">#f4f7fa</color>
+	<color name="rectangle_42_color">#1d202f</color>
+	<color name="___color">#ffffff</color>
+	<color name="bg_ek1_color">#272a3f</color>
+	<color name="bg_ek2_color">#29c17e</color>
+	<color name="bg_ek3_color">#54cd98</color>
+	<color name="no_search_result_found__color">#6e7989</color>
+	<color name="rectangle_44_color">#99a0b0</color>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_11 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__artboard_11_color">#ffffff</color>
+	<color name="rectangle_100_color">#f4f7fa</color>
+	<color name="input_color">#d8dae0</color>
+	<color name="ish_madushka_gmail_com_color">#272a3f</color>
+	<color name="enter_email___password_to_continue_color">#6e7989</color>
+	<color name="bg_color">#29c17e</color>
+	<color name="sign_in_color">#ffffff</color>
+	<color name="sign_in_ek1_color">#29c17e</color>
+	<color name="rectangle_102_color">#6e7989</color>
+	<color name="bg_ek2_color">#272a3f</color>
+	<color name="dismiss_color">#b63737</color>
+</resources>

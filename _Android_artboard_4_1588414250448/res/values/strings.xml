@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_4 strings -->
+
+	<string name="app_name">Artboard 4</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="enter_mobile_number_to_continue_string">Enter mobile number to continue</string>
+	<string name="what_s_your_number_string">Whats your number</string>
+	<string name="add_number_string">Add number</string>
+	<string name="send_string">SEND</string>
+	<string name="_12_30_string">12:30</string>
+	<string name="__94_string">+94</string>
+	<string name="your_mobile_number_string">Your mobile number</string>
+</resources>

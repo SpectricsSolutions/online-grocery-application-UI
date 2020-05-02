@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_16 strings -->
+
+	<string name="app_name">Artboard 16</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="___string">/</string>
+	<string name="__123_string">@123</string>
+	<string name="z_string">z</string>
+	<string name="x_string">x</string>
+	<string name="c_string">c</string>
+	<string name="v_string">v</string>
+	<string name="b_string">b</string>
+	<string name="n_string">n</string>
+	<string name="m_string">m</string>
+	<string name="a_string">a</string>
+	<string name="s_string">s</string>
+	<string name="d_string">d</string>
+	<string name="f_string">f</string>
+	<string name="g_string">g</string>
+	<string name="h_string">h</string>
+	<string name="j_string">j</string>
+	<string name="k_string">k</string>
+	<string name="l_string">l</string>
+	<string name="q_string">q</string>
+	<string name="w_string">w</string>
+	<string name="e_string">e</string>
+	<string name="r_string">r</string>
+	<string name="t_string">t</string>
+	<string name="y_string">y</string>
+	<string name="u_string">u</string>
+	<string name="i_string">i</string>
+	<string name="o_string">o</string>
+	<string name="p_string">p</string>
+	<string name="_1_string">1</string>
+	<string name="_2_string">2</string>
+	<string name="_3_string">3</string>
+	<string name="_4_string">4</string>
+	<string name="_5_string">5</string>
+	<string name="_6_string">6</string>
+	<string name="_7_string">7</string>
+	<string name="_8_string">8</string>
+	<string name="_9_string">9</string>
+	<string name="_0_string">0</string>
+	<string name="search_string">Search</string>
+	<string name="_12_30_string">12:30</string>
+	<string name="no_search_result_found__string">No search result found!</string>
+</resources>

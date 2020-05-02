@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_7 strings -->
+
+	<string name="app_name">Artboard 7</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="_4_digit_code_sent_to__94_71_878_6729_string">4 digit code sent to +94 71 878 6729</string>
+	<string name="verify_your_number_string">Verify your number</string>
+	<string name="verify_number_string">Verify number</string>
+	<string name="verify_string">VERIFY</string>
+	<string name="resend_in_00_52s_string">Resend in 00:52s</string>
+	<string name="_12_30_string">12:30</string>
+	<string name="_1_string">1</string>
+	<string name="_2_string">2</string>
+	<string name="_3_string">3</string>
+	<string name="___string">-</string>
+	<string name="___ek1_string">.</string>
+	<string name="_4_string">4</string>
+	<string name="_5_string">5</string>
+	<string name="_6_string">6</string>
+	<string name="_7_string">7</string>
+	<string name="___ek2_string">*</string>
+	<string name="___ek3_string">#</string>
+	<string name="_8_string">8</string>
+	<string name="_0_string">0</string>
+	<string name="___ek4_string">+</string>
+	<string name="_9_string">9</string>
+	<string name="_2_ek1_string">2</string>
+	<string name="_8_ek1_string">8</string>
+	<string name="_5_ek1_string">5</string>
+	<string name="_4_ek1_string">4</string>
+</resources>

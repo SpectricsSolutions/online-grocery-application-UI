@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_15 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__artboard_15_color">#ffffff</color>
+	<color name="rectangle_72_color">#272a3f</color>
+	<color name="order_history_color">#272a3f</color>
+	<color name="ellipse_31_color">#29c17e</color>
+	<color name="bg_color">#f4f7fa</color>
+	<color name="_12_30_color">#6e7989</color>
+	<color name="rectangle_73_color">#6e7989</color>
+</resources>

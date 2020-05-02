@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_15 strings -->
+
+	<string name="app_name">Artboard 15</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="order_history_string">Order History</string>
+	<string name="track_orders_string">Track Orders</string>
+	<string name="currency_string">Currency</string>
+	<string name="store_locator_string">Store Locator</string>
+	<string name="terms___conditions_string">Terms &amp; Conditions</string>
+	<string name="help_string">Help</string>
+	<string name="got_a_question__string">Got a Question?</string>
+	<string name="logout_string">Logout</string>
+	<string name="grocery_shopping_string">Grocery shopping</string>
+	<string name="_12_30_string">12:30</string>
+</resources>

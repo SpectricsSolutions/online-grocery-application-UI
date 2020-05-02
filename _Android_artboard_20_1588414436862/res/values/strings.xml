@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_20 strings -->
+
+	<string name="app_name">Artboard 20</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="coffee_string">Coffee</string>
+	<string name="_12_30_string">12:30</string>
+	<string name="_50g_string">50G</string>
+	<string name="rs_470_00_string">Rs.470.00</string>
+	<string name="khao_shong_ag____string">Khao Shong Ag...</string>
+	<string name="_50g_ek1_string">50G</string>
+	<string name="rs_450_00_string">Rs.450.00</string>
+	<string name="khao_shong____string">Khao Shong...</string>
+	<string name="_100g_string">100G</string>
+	<string name="rs_1_700_00_string">Rs.1,700.00</string>
+	<string name="nescafe_gold_string">Nescafe Gold</string>
+	<string name="_50g_ek2_string">50G</string>
+	<string name="rs_470_00_ek1_string">Rs.470.00</string>
+	<string name="nescafe_classic_string">Nescafe Classic</string>
+	<string name="_100g_ek1_string">100G</string>
+	<string name="rs_950_00_string">Rs.950.00</string>
+	<string name="nescafe_latte_string">Nescafe Latte</string>
+</resources>

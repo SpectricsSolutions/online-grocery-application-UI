@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_19 strings -->
+
+	<string name="app_name">Artboard 19</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="beverages_string">Beverages</string>
+	<string name="_12_30_string">12:30</string>
+	<string name="chocolate_drink_string">Chocolate Drink</string>
+	<string name="coffee_string">Coffee</string>
+	<string name="concentrated_fruit_drinks_string">Concentrated Fruit Drinks</string>
+	<string name="juices___carbonates_string">Juices &amp; Carbonates</string>
+	<string name="malt_drink_string">Malt Drink</string>
+	<string name="milks___creamers_string">Milks &amp; Creamers</string>
+	<string name="rtd___beverages_string">RTD &amp; Beverages</string>
+	<string name="sport___energy_drinks_string">Sport &amp; Energy Drinks</string>
+	<string name="tea_string">Tea</string>
+	<string name="waters_string">Waters</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_8 strings -->
+
+	<string name="app_name">Artboard 8</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="_12_30_string">12:30</string>
+	<string name="sign_in_string">SIGN IN</string>
+	<string name="later_string">LATER</string>
+	<string name="congratulations__string">Congratulations!</string>
+	<string name="your_mobile_number_verified_successfull__you_can_now_continue_using_grocery_shopping_app__string">Your mobile number verified\
+successfull! You can now continue\
+using Grocery Shopping App.</string>
+</resources>

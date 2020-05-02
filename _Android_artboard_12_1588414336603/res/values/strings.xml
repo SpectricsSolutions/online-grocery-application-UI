@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_12 strings -->
+
+	<string name="app_name">Artboard 12</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="email_address_string">Email address</string>
+	<string name="enter_email_address_to_send_reset_code_string">Enter email address to send reset code</string>
+	<string name="password_reset_string">Password reset</string>
+	<string name="forgot_password_string">Forgot password</string>
+	<string name="send_string">SEND</string>
+	<string name="_12_30_string">12:30</string>
+</resources>

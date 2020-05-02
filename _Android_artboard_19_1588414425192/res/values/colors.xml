@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_19 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__artboard_19_color">#ffffff</color>
+	<color name="rectangle_18_color">#f4f7fa</color>
+	<color name="rectangle_21_color">#272a3f</color>
+	<color name="rectangle_22_color">#000000</color>
+	<color name="beverages_color">#ffffff</color>
+	<color name="chocolate_drink_color">#272a3f</color>
+	<color name="bg_ek1_color">#d8dae0</color>
+</resources>

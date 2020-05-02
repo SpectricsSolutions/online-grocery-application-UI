@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_8 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__artboard_8_color">#ffffff</color>
+	<color name="rectangle_113_color">#29c17e</color>
+	<color name="bg_color">#54cd98</color>
+	<color name="_12_30_color">#ffffff</color>
+	<color name="bg_ek2_color">#d8dae0</color>
+	<color name="later_color">#29c17e</color>
+	<color name="congratulations__color">#272a3f</color>
+	<color name="your_mobile_number_verified_successfull__you_can_now_continue_using_grocery_shopping_app__color">#6e7989</color>
+</resources>

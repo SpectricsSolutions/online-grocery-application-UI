@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_1 strings -->
+
+	<string name="app_name">Artboard 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="_12_30_string">12:30</string>
+	<string name="sign_up_string">SIGN UP</string>
+	<string name="sign_in_string">SIGN IN</string>
+	<string name="welcome_to_grocery_shopping_string">Welcome to\
+Grocery shopping</string>
+</resources>

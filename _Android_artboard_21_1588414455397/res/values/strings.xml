@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artboard_21 strings -->
+
+	<string name="app_name">Artboard 21</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="grocery_app_deals_string">Grocery App Deals</string>
+	<string name="_12_30_string">12:30</string>
+	<string name="_1kg_string">1KG</string>
+	<string name="add_to_cart_string">ADD TO CART</string>
+	<string name="buy_now_string">BUY NOW</string>
+	<string name="rs_1_100_00_string">Rs.1,100.00</string>
+	<string name="quantity_string">Quantity</string>
+	<string name="bell_pepper_red_string">Bell Pepper Red</string>
+	<string name="_2_string">2</string>
+</resources>
